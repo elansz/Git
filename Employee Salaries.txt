@@ -17,3 +17,4 @@ Kevstrat	$35,015
 Elan  $31,051
 Azka $30,111
 Minji $11,111
+Roy $32,000
